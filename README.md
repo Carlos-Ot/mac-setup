@@ -47,8 +47,11 @@ https://brew.sh
 Copy to home the files: 
 
 [.git-completion.bash](https://github.com/Carlos-Ot/mac-setup/blob/master/.git-completion.bash ".git-completion.bash")
+
 [.git-prompt.sh](https://github.com/Carlos-Ot/mac-setup/blob/master/.git-prompt.sh ".git-prompt.sh")
+
 [.bashrc](https://github.com/Carlos-Ot/mac-setup/blob/master/.bashrc ".bashrc")
+
 [.bash_profile](https://github.com/Carlos-Ot/mac-setup/blob/master/.bash_profile ".bash_profile")
     
 
@@ -83,5 +86,7 @@ Copy to home the files:
 
 ## Charles
 [Download](https://www.charlesproxy.com/download/#)
+
 [Documentation](https://www.charlesproxy.com/documentation/)
+
 [Android Proxy Setup](https://community.tealiumiq.com/t5/Tealium-for-Android/Setting-up-Charles-to-Proxy-your-Android-Device/ta-p/5121)
