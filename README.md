@@ -14,6 +14,7 @@ https://brew.sh
 
 ## Git
 
+Install git by typing
     $ git --version
 
 ## GitHub SSH
