@@ -48,6 +48,10 @@ Install git by typing
 
 Copy to home the files: 
 
+Download the right .git-completion.bash
+
+    https://raw.githubusercontent.com/git/git/v<git-version>/contrib/completion/git-completion.bash
+
 [.git-completion.bash](https://github.com/Carlos-Ot/mac-setup/blob/master/.git-completion.bash ".git-completion.bash")
 
 [.git-prompt.sh](https://github.com/Carlos-Ot/mac-setup/blob/master/.git-prompt.sh ".git-prompt.sh")
