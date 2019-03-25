@@ -23,7 +23,7 @@ https://brew.sh
 #### Adding SSH key to ssh-agent
 ##### Start the SSH agent
     $ eval "$(ssh-agent -s)"
-##### Configuration to automatically load keys
+##### Configuration to automatically load keys (~/.ssh/config)
     Host github.com
     AddKeysToAgent yes
     UseKeychain yes
